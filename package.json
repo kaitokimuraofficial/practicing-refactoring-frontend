@@ -9,13 +9,11 @@
     "eslint": "eslint ./src --ext ts,tsx",
     "test": "jest"
   },
-  "repository": "https://github.com/kaitokimuraofficial/practicing-refactoring-frontend.git",
-  "author": "kaitokimuraofficial <k.kaito0422@akane.waseda.jp>",
-  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.10.0",
     "@babel/plugin-transform-runtime": "^7.11.0",
     "@babel/preset-env": "^7.10.0",
+    "@babel/preset-flow": "^7.23.3",
     "@babel/preset-react": "^7.10.4",
     "@babel/preset-typescript": "^7.9.0",
     "@types/enzyme": "^3.10.5",
